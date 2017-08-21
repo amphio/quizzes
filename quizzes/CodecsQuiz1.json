@@ -1,0 +1,16 @@
+{
+    "Codecs Quiz 1":
+    {
+        "Hello! Are you ready to quiz? :" : "",
+        "Question 1. Where does the word 'codec' come from?:" : "",
+        "Question 2. What is the difference between a codec and a video format?:" : "",
+        "Question 3. Name three codecs:" : "",
+        "Question 4. What is a reasonable expected use for each of these codecs?:" : "",
+        "Question 5. What requires more processing power to play, ProRes or h.264?:" : "",
+        "Question 6. What is the difference between ProRes 422 and ProRes 4444?:" : "",
+        "Question 7. If you were given a video file with a bitrate of 10Mb/s would you expect this to be in a source format or delivery format?:" : "",
+        "Question 8. What do the letters GOP stand for in long-GOP and short-GOP?:" : "",
+        "Question 9. What is intra frame encoding?:" : "",
+        "Question 10. What is the difference between RAW and uncompressed footage?:" : ""
+    }
+}
