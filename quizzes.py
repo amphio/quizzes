@@ -16,8 +16,8 @@ def load_libray():
 		#Filepath to quiz json
 		quizzes_filepath = quizzes_filename + ".json"
 		#Load file
-		with open(quizzes_filepath) as test_file:    
-			uncompleted_quizzes = json.load(test_file, object_pairs_hook=OrderedDict)
+		with open(quizzes_filepath) as quiz_file:    
+			uncompleted_quizzes = json.load(quiz_file, object_pairs_hook=OrderedDict)
 		return quizzes_filename, quizzes_filepath, uncompleted_quizzes
 	except Exception as e:
 		raise e
@@ -58,7 +58,7 @@ def run_through_quizzes(uncompleted_quizzes, expected_responses = OrderedDict(),
 	if current_quiz == "Context":
 		response = "y"
 	else:
-		print ("\nWould you like to check " + current_quiz + "?")
+		print ("\nWould you like to be quizzed on " + current_quiz + "?")
 		response = raw_input("(y/n) > ")
 
 	if response == "y":
