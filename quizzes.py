@@ -11,14 +11,13 @@ from pprint import pprint
 
 def load_libray():
 	try:
-		print ("\nTo get started, please enter the quiz you'd like to take (e.g. codecs, cameras)...")
-		quizzes_filename = raw_input("(filename) > ")
-		#Filepath to quiz json
-		quizzes_filepath = quizzes_filename + ".json"
+		print ("\nTo get started, please enter the file path of the quiz you'd like to take (e.g. /Users/Rainbow/Documents/GitHub/quizzes)...")
+		quizzes_filepath = raw_input("(filename) > ")
+		quizzes_filepath = quizzes_filepath.replace(" ", "")
 		#Load file
 		with open(quizzes_filepath) as quiz_file:    
 			uncompleted_quizzes = json.load(quiz_file, object_pairs_hook=OrderedDict)
-		return quizzes_filename, quizzes_filepath, uncompleted_quizzes
+		return quizzes_filepath, uncompleted_quizzes
 	except Exception as e:
 		raise e
 		print ("The file %s was not found in the current directory. \nPlease try again..." % (quizzes_filepath))
@@ -141,7 +140,7 @@ print ("""\n\n\n
 print ("WELCOME TO quizzes...")
 
 #Load library
-quizzes_filename, quizzes_filepath, uncompleted_quizzes = load_libray()
+quizzes_filepath, uncompleted_quizzes = load_libray()
 
 #Show quizzes in selected library
 print ('\nThe following quizzes are available in %s: ' % quizzes_filepath)
