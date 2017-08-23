@@ -1,4 +1,5 @@
 from __future__ import print_function
+import os
 import sys
 import time
 import json
@@ -12,7 +13,7 @@ from pprint import pprint
 def load_libray():
 	try:
 		print ("\nTo get started, please enter the file path of the quiz you'd like to take (e.g. /Users/Rainbow/Documents/GitHub/quizzes)...")
-		quizzes_filepath = raw_input("(filename) > ")
+		quizzes_filepath = raw_input("(filepath) > ")
 		quizzes_filepath = quizzes_filepath.replace(" ", "")
 		#Load file
 		with open(quizzes_filepath) as quiz_file:    
@@ -104,12 +105,22 @@ def dump_to_file(final_results):
 	Writes results to json
 	"""
 	#Add prefix result
+#	if final_results["Results"]["Test passed"] == True:
+#		time_now = time.time()
+#		ouput_filepath = quizzes_filepath.replace("example_quiz.json", "", 1) + "results/" + datetime.datetime.fromtimestamp(time_now).strftime('%Y-%m-%d_%Hh%Mm%Ss') + "_PASSED.json"
+#	else:
+#		time_now = time.time()
+#		ouput_filepath = quizzes_filepath.replace("example_quiz.json", "", 1) + "results/" + datetime.datetime.fromtimestamp(time_now).strftime('%Y-%m-%d_%Hh%Mm%Ss') + "_FAILED.json"
+
+#Get current directory
 	if final_results["Results"]["Test passed"] == True:
 		time_now = time.time()
-		ouput_filepath = "results/" + quizzes_filename + "_" + datetime.datetime.fromtimestamp(time_now).strftime('%Y-%m-%d_%Hh%Mm%Ss') + "_PASSED.json"
+		ouput_filepath = os.path.dirname(os.path.abspath(__file__)) + "/results/" + datetime.datetime.fromtimestamp(time_now).strftime('%Y-%m-%d_%Hh%Mm%Ss') + "_PASSED.json"
+#	else:
+#		time_now = time.time()
 	else:
 		time_now = time.time()
-		ouput_filepath = "results/" + quizzes_filename + "_" + datetime.datetime.fromtimestamp(time_now).strftime('%Y-%m-%d_%Hh%Mm%Ss') + "_FAILED.json"
+		ouput_filepath = os.path.dirname(os.path.abspath(__file__)) + "/results/" + datetime.datetime.fromtimestamp(time_now).strftime('%Y-%m-%d_%Hh%Mm%Ss') + "_FAILED.json"
 	with open(ouput_filepath,  'w') as fp:
 		json.dump(final_results, fp)
 	return ouput_filepath
