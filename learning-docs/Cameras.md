@@ -34,7 +34,7 @@ Battery life (still images)
 Viewfinder type - electronic 
 
 On the camera - M S A P 
-Generally find out what all the buttons do!
+
 
 ## Accessories
 
@@ -64,9 +64,18 @@ You select shutter speed and camera decides best aperture (longer shutter speeds
 
 #### ISO
 Sensitivity of sensor to available light.
-More ISO can make photo noisy/grainy
+More ISO can make photo noisy/grainy.
 Want to have it as low as possible. 
 
 M = manual 
+AF = Autofocus 
+
+#### Sensors
+Larger the sensor size, the better low light performance, image quality and artistic freedom 
+Downsizes are = equipment is heavier, more expensive
+
+Smaller sensor size = more difficult to create shallow depth of field e.g. iPhone camera, has that fake portrait mode
+Boca - lights are bit and blurry
+Have to get really close on iPhone to get that shallow depth effect
 
 
