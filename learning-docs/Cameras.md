@@ -1,8 +1,9 @@
 # Cameras
 
-#### Suggested reading
+#### Suggested reading/viewing
 
 https://www.sony.co.uk/electronics/interchangeable-lens-cameras/ilce-7sm2#product_details_default
+https://www.youtube.com/watch?v=BNG7ia8cl2s
 
 
 ----------
