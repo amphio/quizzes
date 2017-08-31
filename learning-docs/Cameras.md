@@ -78,4 +78,42 @@ Smaller sensor size = more difficult to create shallow depth of field e.g. iPhon
 Boca - lights are bit and blurry
 Have to get really close on iPhone to get that shallow depth effect
 
+Entry level will have a **crop frame sensors**
+Conventional 1.6 crop, image is effectively maginified 1.6 times
+Benefits = smaller camera, better zoomed shots due to magnification
+Cons = field of view narrowed, problem is that you can't get pro level lenses for crop sensors
+Lenses have been designed for crop sensors to match focal length of full frame, wide angle
+Using 85mm on crop sensor would seem very cropped
+
+
+Bigger cameras will have **full frame sensors**
+36mm x 24mm, equates to old historical value of 35mm film
+Pros = Good in low light, can use better lenses, depth of field adjustments easier
+Cons = Needs bigger lenses, more expensive
+
+#### Lenses
+**Zoom lens** - zooms in and out…
+**Prime lens** – fixed to one focal length (can't zoom)
+
+**Focal length** = maginification of the image, represented in mm
+The higher the focal length, the higher the magnification
+
+Human eye sees in 50mm, so 30-70mm is classed as **mid range lens**
+Anything below 30mm is classed as a **wide angle lens** e.g. 15mm. The lower you go down, get more distorted the image gets around the side, it then starts to be called a **fish eye lens**
+
+Once you get to 70mm - 1700mm = telephoto focal lens
+![screen shot 2017-08-31 at 09 50 36](https://user-images.githubusercontent.com/26869008/29914853-df482852-8e31-11e7-9fde-53c47a0d7334.png)
+
+Focal length alters perspective of an image
+With wide angle you can make subject look large compared to background
+As focal length increases you get background compression, so the subject stays the same size while background becomes compressed.
+Higher focal length, blurrier background
+
+Lower quality lenses, aperture will change when focal length is changed…
+![lt4lg](https://user-images.githubusercontent.com/26869008/29920243-8223303c-8e44-11e7-9501-3a89a5cfa7d4.png)
+
+Higher quality lenses have **fixed apertures**
+
+
+
 
