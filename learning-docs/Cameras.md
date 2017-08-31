@@ -66,7 +66,7 @@ Smaller sensor size = more difficult to create shallow depth of field e.g. iPhon
 Boca - lights are bit and blurry
 Have to get really close on iPhone to get that shallow depth effect
 
-Entry level will have a **crop frame sensors**
+Entry level will have a **crop frame sensors** (DX)
 Conventional 1.6 crop, image is effectively maginified 1.6 times
 Benefits = smaller camera, better zoomed shots due to magnification
 Cons = field of view narrowed, problem is that you can't get pro level lenses for crop sensors
@@ -74,7 +74,7 @@ Lenses have been designed for crop sensors to match focal length of full frame, 
 Using 85mm on crop sensor would seem very cropped
 
 
-Bigger cameras will have **full frame sensors**
+Bigger cameras will have **full frame sensors** (FX)
 36mm x 24mm, equates to old historical value of 35mm film
 Pros = Good in low light, can use better lenses, depth of field adjustments easier
 Cons = Needs bigger lenses, more expensive
@@ -109,7 +109,6 @@ IF = Internal Focus, higher end lensesuse ultra sonic motors built into lens for
 On Nikon AF-S = Focussing motors, USM (Ultra Sonic Motors) on Canon
 Entry level DSLRs may require Internal Focus lenses (as likely they don't have one inbuilt)
 
-DX?? FX?? Cameras
 
 Don't clean lens too much, has nano particles that you don't want to rub off
 
