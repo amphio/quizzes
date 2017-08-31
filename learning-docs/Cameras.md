@@ -16,20 +16,6 @@ High resolution good to crop in
 `Dynamic range`
 Can really pick up the shadows
 
-RAW
-
-Mirrorless? 
-
-ISO
-
-Sensors
-
-Full pixel readout with pixel binning??
-
-5-axis built-in stabilisation
-
-AF
-
 Battery life (still images)
 
 Viewfinder type - electronic 
@@ -41,6 +27,7 @@ On the camera - M S A P
 
 Lenses
 Grip 
+UV filter
 
 #### Aperture
 AKA f stop, values range from  ~2.2 – 22
@@ -111,10 +98,31 @@ As focal length increases you get background compression, so the subject stays t
 Higher focal length, blurrier background
 
 Lower quality lenses, aperture will change when focal length is changed…
-![lt4lg](https://user-images.githubusercontent.com/26869008/29920243-8223303c-8e44-11e7-9501-3a89a5cfa7d4.png)
+![cameralensfront](https://user-images.githubusercontent.com/26869008/29923077-14b047fe-8e50-11e7-80d2-53eece0c3798.png)
 
 Higher quality lenses have **fixed apertures**
 
+![18ocy](https://user-images.githubusercontent.com/26869008/29922479-b4a9a424-8e4d-11e7-8bd4-0fa7c08c98f7.png)
 
+Macro = close-up photograhy, lens can focus at short distances
+IF = Internal Focus, higher end lensesuse ultra sonic motors built into lens for processing to allow for high speed focussing 
+On Nikon AF-S = Focussing motors, USM (Ultra Sonic Motors) on Canon
+Entry level DSLRs may require Internal Focus lenses (as likely they don't have one inbuilt)
+
+DX?? FX?? Cameras
+
+Don't clean lens too much, has nano particles that you don't want to rub off
+
+Image Stabilisation VR (Vibration Reduction) on Nikon, IS (Image Stabilisation) on Canon
+
+Zoom ring
+Aperture ring
+
+#### Prime lenses
+1 Focal length
+Pros = smaller, shaper images, wide aperture, beautiful **Bokeh**
+Cons = no zoom, 
+
+Glass in the lens called **elements** 
 
 
