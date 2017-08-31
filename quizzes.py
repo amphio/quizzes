@@ -24,6 +24,10 @@ def load_libray():
 		print ("The file %s was not found in the current directory. \nPlease try again..." % (quizzes_filepath))
 		load_libray()
 
+#def get_filename():
+#	filename = os.path.basename(__file__)
+	
+
 
 def run_quiz(items):
 	"""
@@ -115,12 +119,14 @@ def dump_to_file(final_results):
 #Get current directory
 	if final_results["Results"]["Test passed"] == True:
 		time_now = time.time()
-		ouput_filepath = os.path.dirname(os.path.abspath(__file__)) + "/results/" + datetime.datetime.fromtimestamp(time_now).strftime('%Y-%m-%d_%Hh%Mm%Ss') + "_PASSED.json"
+		#filename = quizzes_filepath.basename(__file__)
+		ouput_filepath = os.path.dirname(os.path.abspath(__file__)) + "/results/" + filename + datetime.datetime.fromtimestamp(time_now).strftime('%Y-%m-%d_%Hh%Mm%Ss') + "_PASSED.json"
 #	else:
 #		time_now = time.time()
 	else:
 		time_now = time.time()
-		ouput_filepath = os.path.dirname(os.path.abspath(__file__)) + "/results/" + datetime.datetime.fromtimestamp(time_now).strftime('%Y-%m-%d_%Hh%Mm%Ss') + "_FAILED.json"
+		#filename = quizzes_filepath.basename(__file__)
+		ouput_filepath = os.path.dirname(os.path.abspath(__file__)) + "/results/" + filename + datetime.datetime.fromtimestamp(time_now).strftime('%Y-%m-%d_%Hh%Mm%Ss') + "_FAILED.json"
 	with open(ouput_filepath,  'w') as fp:
 		json.dump(final_results, fp)
 	return ouput_filepath
