@@ -102,7 +102,7 @@ Lower quality lenses, aperture will change when focal length is changed…
 
 Higher quality lenses have **fixed apertures**
 
-![18ocy](https://user-images.githubusercontent.com/26869008/29922479-b4a9a424-8e4d-11e7-8bd4-0fa7c08c98f7.png)
+![screen shot 2017-08-31 at 13 06 33](https://user-images.githubusercontent.com/26869008/29923405-59317244-8e51-11e7-95e7-0e8e221da5cd.png)
 
 Macro = close-up photograhy, lens can focus at short distances
 IF = Internal Focus, higher end lensesuse ultra sonic motors built into lens for processing to allow for high speed focussing 
