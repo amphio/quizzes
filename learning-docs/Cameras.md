@@ -124,4 +124,8 @@ Cons = no zoom,
 
 Glass in the lens called **elements** 
 
+Can have DX lenses and FX lenses
+FX cameras can also use DX lenses, however to avoid vignetting, the DX crop mode is automatically selected by the camera when a DX lens is attached.
+
+![screen shot 2017-08-31 at 13 34 19](https://user-images.githubusercontent.com/26869008/29923336-222fe104-8e51-11e7-99e1-8f7a8ccb5ec1.png)
 
