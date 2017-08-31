@@ -22,12 +22,25 @@ Viewfinder type - electronic
 
 On the camera - M S A P 
 
+**Mode P (Programmed Auto)**
+The camera automatically adjusts aperture and shutter speed for optimal exposure, but the photographer can choose from different combinations of aperture and shutter speed that will produce the same exposure. This is known as flexible program.
+
+**Mode S (Shutter-Priority Auto)**
+The photographer chooses the shutter speed and the camera automatically adjusts aperture for optimal exposure.
+
+**Mode A (Aperture-Priority Auto)**
+The photographer chooses the aperture and the camera automatically adjusts shutter speed for optimal exposure.
+Note: that in all three modes—P, S, and A—exposure is automatically adjusted for optimal results.
+
+![screen shot 2017-08-31 at 13 59 16](https://user-images.githubusercontent.com/26869008/29924351-9bdf3f60-8e54-11e7-889c-ab9c574a6d7f.png)
 
 ## Accessories
 
-Lenses
-Grip 
+Lenses <br>
+Grip <br>
 UV filter
+
+<hr>
 
 #### Aperture
 AKA f stop, values range from  ~2.2 – 22
