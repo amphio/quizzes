@@ -1,0 +1,26 @@
+{
+    "Lighting Quiz Part 1 (yes and no)":
+    {
+        "Does a bigger f number indicate more light?" : "n",
+        "Is a 'best boy' part of the lighting crew on a film set?" : "y",
+        "Is a 'gaffer' part of the lighting crew on a film set?" : "y"
+    },
+
+    "Lighting Quiz Part 2 (you will need someone to mark your answers for this)":
+    {
+        "What unit is colour temperature measured in?" : "y",
+        "Name a colour temperature you might expect to be daylight." : "y",
+        "Would you expect the colour temperature of light in the shade, outdoors on a bright sunny day, to be warmer or cooler than that in the direct sunlight?" : "y",
+    	"Name a type of lighting you might expect to find in an office." : "y",
+        "Name a type of lighting you might expect to find in a home." : "y",
+    	"What might affect the temperature of the light outdoors?" : "y",
+    	"How might you control the difference in temperature between indoor light and outdoor light coming through the windows?" : "y",
+    	"What type of lights are in Amphio's video kit?" : "y",
+    	"Name the three light roles in a typical three point lighting setup." : "y",
+    	"Name another type of light role you might add to the three point set up." : "y",
+    	"What would you measure the power of your lights in?" : "y",
+    	"Which camera settings would you adjust to go with your lighting set up?" : "y",
+    	"What is the name given to lights that are part of the scene/in shot?" : "y",
+    	"Name three accessories you might use as part of your lighting set up." : "y"
+    }
+}
