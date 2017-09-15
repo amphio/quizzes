@@ -92,7 +92,9 @@ Just hair light – quite dreamy<br>
 ￼
 ![screen shot 2017-09-15 at 09 05 16](https://user-images.githubusercontent.com/26869008/30481261-8f6b34e2-9a15-11e7-84af-f6f055d81c4c.png)<br>
 
-Cross light <br>
+**Cross light** <br>
+![screen shot 2017-09-15 at 16 42 37](https://user-images.githubusercontent.com/26869008/30492135-6c482a66-9a37-11e7-8aa4-da1d92f346e0.png)<br>
+
 
 ### Lighting Equipment/Accessories
 Barn doors – open and close over lights to direct of cut off light.<br>
