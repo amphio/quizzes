@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=2Y6bB86HmdA
 ￼
 
 ### Lighting Department (film crew)
-**Gaffer** - chief lighting technician, responsible for the execution (and sometimes the design) of the lighting plan for a production.
+**Gaffer** - chief lighting technician, responsible for the execution (and sometimes the design) of the lighting plan for a production.<br>
 **Best boy** – gaffer’s assistant <br>
 **Set lighting technicians** or **Electricians** – more assistants <br>
 **Lighting designer** – works with the director, choreographer, set designer, costume designer, and sound designer to create the lighting, atmosphere, and time of day for the production<br>
