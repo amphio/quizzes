@@ -68,29 +68,29 @@ Just hair light – quite dreamy<br>
 
 **Broad side/near side** – light is hitting broad side of subject’s face, with the face at an angle it will be the side that faces nearest the camera<br>
 
-![screen shot 2017-09-15 at 09 02 31](https://user-images.githubusercontent.com/26869008/30481208-5408b294-9a15-11e7-8317-f5a427addd28.png)
+![screen shot 2017-09-15 at 09 02 31](https://user-images.githubusercontent.com/26869008/30481208-5408b294-9a15-11e7-8317-f5a427addd28.png)<br>
 ￼
 **Short side** – light on short side of subject’s face, the side away from camera<br>
 ￼
-![screen shot 2017-09-15 at 09 01 10](https://user-images.githubusercontent.com/26869008/30481210-56140174-9a15-11e7-9169-ae3e83495a2c.png)
+![screen shot 2017-09-15 at 09 01 10](https://user-images.githubusercontent.com/26869008/30481210-56140174-9a15-11e7-9169-ae3e83495a2c.png)<br>
 
 
 **Side light** - dramatic<br>
 ￼
-![screen shot 2017-09-15 at 11 30 12](https://user-images.githubusercontent.com/26869008/30481226-6796c274-9a15-11e7-9b85-c48f55e1d52d.png)
+![screen shot 2017-09-15 at 11 30 12](https://user-images.githubusercontent.com/26869008/30481226-6796c274-9a15-11e7-9b85-c48f55e1d52d.png)<br>
 
 **Rembrandt light** – position key light so you get triangle under the eye<br>
 ￼
-![screen shot 2017-09-15 at 08 56 39](https://user-images.githubusercontent.com/26869008/30481238-71104b36-9a15-11e7-9198-41f7ffcd4b23.png)
+![screen shot 2017-09-15 at 08 56 39](https://user-images.githubusercontent.com/26869008/30481238-71104b36-9a15-11e7-9198-41f7ffcd4b23.png)<br>
 
 
-**Backlight** – 
+**Backlight** – <br>
 
-![screen shot 2017-09-15 at 09 04 01](https://user-images.githubusercontent.com/26869008/30481232-6cc5157a-9a15-11e7-952d-b0c5fa5e21b9.png)
+![screen shot 2017-09-15 at 09 04 01](https://user-images.githubusercontent.com/26869008/30481232-6cc5157a-9a15-11e7-952d-b0c5fa5e21b9.png)<br>
 ￼
-**Kicker or rim light** – Light curves a little round the face<br>
+**Kicker or rim light** – Light curves a little round the face <br>
 ￼
-![screen shot 2017-09-15 at 09 05 16](https://user-images.githubusercontent.com/26869008/30481261-8f6b34e2-9a15-11e7-84af-f6f055d81c4c.png)
+![screen shot 2017-09-15 at 09 05 16](https://user-images.githubusercontent.com/26869008/30481261-8f6b34e2-9a15-11e7-84af-f6f055d81c4c.png)<br>
 
 Cross light <br>
 
