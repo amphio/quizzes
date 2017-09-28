@@ -9,6 +9,7 @@ import time
 import datetime
 from collections import OrderedDict, namedtuple
 from pprint import pprint
+from os.path import basename
 
 def load_libray():
 	try:
@@ -119,13 +120,13 @@ def dump_to_file(final_results):
 #Get current directory
 	if final_results["Results"]["Test passed"] == True:
 		time_now = time.time()
-		#filename = quizzes_filepath.basename(__file__)
+		filename = basename(quizzes_filepath)
 		ouput_filepath = os.path.dirname(os.path.abspath(__file__)) + "/results/" + filename + datetime.datetime.fromtimestamp(time_now).strftime('%Y-%m-%d_%Hh%Mm%Ss') + "_PASSED.json"
 #	else:
 #		time_now = time.time()
 	else:
 		time_now = time.time()
-		#filename = quizzes_filepath.basename(__file__)
+		filename = basename(quizzes_filepath)
 		ouput_filepath = os.path.dirname(os.path.abspath(__file__)) + "/results/" + filename + datetime.datetime.fromtimestamp(time_now).strftime('%Y-%m-%d_%Hh%Mm%Ss') + "_FAILED.json"
 	with open(ouput_filepath,  'w') as fp:
 		json.dump(final_results, fp)
