@@ -38,15 +38,15 @@ To switch to (or **checkout**) another branch:
 
 	git checkout [name of branch you want to checkout]
 	
-￼To create your very own branch:
+￼To create your very own branch, let's call it NewFeature, for example:
 
-	git checkout -b [name of branch you want to create]
+	git checkout -b NewFeature
 	git push (gives you command to activate your new branch)
 	copy given command and execute 
 
-If you are happy with the changes you've made in your new branch, you'd probably like to merge these into one of the main branches and show everyone how great you are. Let's say, for this example, you have made a branch called `NewFeature` and you want to merge it to the `Develop` branch.
+If you are happy with the changes you've made in your new branch, you'd probably like to merge these into one of the main branches and show everyone how great you are. 
 
-To merge NewFeature (your new branch) with Develop:
+So to merge your changes in the new branch (`NewFeature`) to the `Develop` branch:
 
 	add, commit and push any changes in NewFeature (see part 1)
 	git checkout Develop (switches you to Develop branch)
@@ -61,12 +61,12 @@ Then, you'll want to delete your new branch locally and remotely:
 
 Locally:
 	
-	git branch -d [branch_name]
+	git branch -d NewFeature
 
 Remotely:
 	
-	git push origin --delete [branch_name]
-
+	git push origin --delete NewFeature
+	
 [Further reading on deleting branches](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely)
 
 
