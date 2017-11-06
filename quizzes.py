@@ -7,7 +7,7 @@ import subprocess
 import sys
 import time
 import datetime
-from collections import OrderedDict, namedtuple
+from collections import OrderedDict, namedtuple, Counter
 from pprint import pprint
 from os.path import basename
 
@@ -24,9 +24,6 @@ def load_libray():
 		raise e
 		print ("The file %s was not found in the current directory. \nPlease try again..." % (quizzes_filepath))
 		load_libray()
-
-#def get_filename():
-#	filename = os.path.basename(__file__)
 	
 
 
@@ -177,8 +174,10 @@ else:
 #Run the optional quizzes
 completed_quizzes = run_through_quizzes(uncompleted_quizzes)
 quiz_results = check_answers(completed_quizzes)
+score = Counter(quiz_results.values())
 
 #Print test results
+print(score)
 print ("quiz RESULTS:")
 pprint (quiz_results)
 
