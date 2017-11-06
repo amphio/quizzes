@@ -1,0 +1,29 @@
+{
+    "Git Quiz Part 1 (concepts and theory – y/n)":
+    {
+        "Git is a Distributed Version Control System (y/n)" : "y",
+        "A developer needs an internet connection to view a project's full history (y/n)" : "n",
+        "The main difference between git and svn is that git tracks differences of files (y/n)" : "n",
+        "Branches represent a reference to a specific commit rather than creating a new copy of another branch. (y/n)" : "y",
+        "Cloning a repository doesn't add an automatic connection for fetching and pushing changes (y/n)" : "n",
+        "A pull request is mechanism for inspecting and discussing work before it is merged into another branch (y/n)" : "y",
+        "A remote stores a URL used to connect to another repository (y/n)" : "y",
+        "Git resolves all conflicts automatically (y/n)" : "n",
+        "Changes to the working directory need to manually added to the staging area (y/n)" : "y",
+        ".gitignore files can be used to ignore commits which haven't been pushed to the remote (y/n)" : "n"
+    },
+
+    "Git Quiz Part 2 (commands)":
+    {
+        "I want to create a new git repository in the current directory" : "git init",
+        "I want to create a local working copy of the repository at git@github.com:robertcromie/skunkworks.git" : "git clone git@github.com:robertcromie/skunkworks.git",
+        "I want to compare my working directory to the remote branch" : "git status",
+        "I want to stage all my current changes to be committed" : "git add .",
+        "I want to commit my changes with a message, without having to open a text editor" : "git commit -m",
+    	"I want to view my repo's commit history, with each commit on a single line" : "git log --oneline",
+        "I want to set aside some changes I've made to temporarily work on something else" : "git stash",
+        "I just shipped v1.1 and want to create a marker of the state of my branch" : "git tag v1.1",
+        "I want to reset my staging area and working directory to match the most recent commit" : "git reset --hard",
+        "I want to publish my local changes to the central repository" : "git push"
+    }
+}
